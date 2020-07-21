@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# 前言
 
-You can use the [editor on GitHub](https://github.com/SorosSnowboy/leianclub/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SorosSnowboy/leianclub/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+漂泊的旅人，你好。</br>
+欢迎你乘坐行舟来到星海的边缘，守卫会保护你的安全。希望你能在这里安静地，快乐地讲述你的故事。</br>
+你所见到的，所猜测的，属于他们和我们的故事。</br>
+希望看到这里的你能够将这里当作自己的家园，和守卫者，裁判者以及创造者一起维护好这里的环境，让它能够成为真正的避风港。</br>
+或许它现在尚不完善，但我们还在努力。</br>
+此致。</br>
+Your Knight
