@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+## 基本条款
 
-You can use the [editor on GitHub](https://github.com/SorosSnowboy/leianclub/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 一、自觉遵守中华人民共和国有关法律、法规，承担一切因您的行为而直接或间接引起的法律责任。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 二、发贴请注意以下几条规定， 若有违反，本论坛有权删除：**
 
-### Markdown
+1、不得发布违反中华人民共和国宪法和法律、违反改革开放和四项基本原则的言论；
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2、不得发布造谣、诽谤他人、煽动颠覆国家政权的言论；
 
-```markdown
-Syntax highlighted code block
+3、不得发布暴力、色情、迷信的言论；
 
-# Header 1
-## Header 2
-### Header 3
+4、不得泄露国家秘密；
 
-- Bulleted
-- List
+5、请勿张贴未经公开报道、未经证实的消息，亲身经历请注明(备查)；
 
-1. Numbered
-2. List
+6、请勿张贴宣扬种族歧视、破坏民族团结的言论和消息；
 
-**Bold** and _Italic_ and `Code` text
+7、请注意使用文明用语，请勿张贴对任何人进行人身攻击、谩骂、诋毁的言论；
 
-[Link](url) and ![Image](src)
-```
+8、未经本论坛同意，常规版块不得张贴任何形式的广告;不得发QQ群，广告请发布到专用广告版面！
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+9、发帖时，请慎重公开个人资料，由此造成的一切后果，由个人承担，本论坛不负任何责任；
 
-### Jekyll Themes
+10、发帖时标题请注意主题明确，能简要概括帖内内容，请勿在帖子中（标题和内容）加入各种奇形怪状的符号。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SorosSnowboy/leianclub/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 三、用户名注册注意事项：
 
-### Support or Contact
+1、请勿以党和国家领导人或其他名人的真实姓名、字号、艺名、用户名注册；
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+2、请勿以国家机构或其他机构的名称注册；
+
+3、请勿注册和其他网友之名过度相近、相仿的名字；
+
+4、请勿注册不文明、不健康之用户名；
+
+5、请勿注册易产生歧义、引起他人误解之用户名；
+
+6、请勿注册图形符号等无任何意义的用户名；
+
+7、如出现上述情况，本论坛有权锁定与删除用户名。
+
+### 四、请注意版权问题:
+
+1、凡转贴文章，应注明原始出处和时间；
+
+2、转贴文章时请注意附上原发表单位的版权声明，并负担由此可能产生的版权责任；
+
+3、原发表单位对转载文章持有解释权。
